@@ -16,7 +16,6 @@ public class PromedioCalificaciones {
             System.out.print("Calificaciones[" + i + "] = ");
             calificaciones[i] = Integer.parseInt(consola.nextLine());
         }
-
         // Obtener el promedio de las calificaciones
         var sumaCalificaciones = 0;
         for (var i = 0; i < totalCalificaciones; i++){
