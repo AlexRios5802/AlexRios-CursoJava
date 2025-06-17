@@ -21,14 +21,11 @@ public class SumaDiagonalMatriz {
         }
 
         // Sumamos la diagola
-
-
         var sumaDiagonal = 0;
         for (var i = 0; i < 3; i++) {
             sumaDiagonal += valores[i][i];
         }
 
         System.out.println("\nTu resultado es: " + sumaDiagonal);
-
     }
 }
