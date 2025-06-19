@@ -7,5 +7,10 @@ public class Funciones {
     public static void main(String[] args) {
         saludar("Hola desde java "); // Argumento
         saludar("Adios");
+
+        int dad = 13;
+
+        dad = 12;
+
     }
 }
