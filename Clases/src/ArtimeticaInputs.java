@@ -23,7 +23,7 @@ public class ArtimeticaInputs {
     }
 
     public static void main(String[] args) {
-        System.out.println("*** Ejemplo Aritmetica ***");
+        System.out.println("*** Ejemplo aritmetica.Aritmetica ***");
         var aritmetica1 = new ArtimeticaInputs();
         aritmetica1.input();
         aritmetica1.sumar();

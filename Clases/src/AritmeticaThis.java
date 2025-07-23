@@ -27,7 +27,7 @@ public class AritmeticaThis {
 
 
     public static void main(String[] args) {
-        System.out.println("*** Ejemplo Aritmetica ***");
+        System.out.println("*** Ejemplo aritmetica.Aritmetica ***");
         var aritmetica1 = new AritmeticaThis(5, 7); // El operador this está apuntando aunque no lo parezca
         aritmetica1.sumar();
         aritmetica1.resta();
